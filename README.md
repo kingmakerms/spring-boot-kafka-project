@@ -19,7 +19,7 @@ body of json file ex-
 
 Run and build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Running unit tests and integration tests
 
 Run `juint test` to execute the unit tests.
 
